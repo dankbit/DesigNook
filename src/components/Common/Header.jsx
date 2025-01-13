@@ -68,7 +68,7 @@ class Header extends React.Component {
               <div className='container clearfix'>
                 <div className='logo-header'>
                   <div className='logo-header-inner logo-header-one'>
-                    <NavLink to={'/home'}>
+                    <NavLink to={'/'}>
                       <img src={this.state.logo} alt='Inteshape' />
                     </NavLink>
                   </div>
